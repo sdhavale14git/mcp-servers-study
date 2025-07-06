@@ -35,6 +35,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Ignore project-specific environment file
+mcp-atlassian.env
+
 # uv/uvx specific
 .uv/
 .uvx/
